@@ -14,13 +14,13 @@ body {
 
 /* Logo */
 .navbar-wagon-brand {
-	color: black;
+
 }
 
-.navbar-wagon-brand:hover {
+/*.navbar-wagon-brand:hover {
 	color: #616668;
 	text-decoration: none;
-}
+}*/
 
 .navbar-wagon-brand a {
 	height: 70px;
